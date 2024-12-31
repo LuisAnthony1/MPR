@@ -1,5 +1,5 @@
 nombre,usuarios,contraseña,permisos
-Anthony,anthony,contra123,counter,tren,ingresos,contabilidad,administrador
+Anthony,anthony,contra123,counter,ingresos
 Luis,elvergalarga123,diquesoypobre
 Jose,jose123,passw0rd,counter,tren,administrador
 Lupita,lupita2024,abc123,ingresos,contabilidad
