@@ -1,0 +1,2 @@
+usuarios,contraseña,permisos
+anthony,contra123,counter,tren,ingresos,contabilidad,administrador
